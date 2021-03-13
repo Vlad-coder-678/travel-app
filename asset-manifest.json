@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Vlad-coder-678/travel-app.git/static/css/main.96799a0e.chunk.css",
+    "main.js": "/Vlad-coder-678/travel-app.git/static/js/main.60f72286.chunk.js",
+    "main.js.map": "/Vlad-coder-678/travel-app.git/static/js/main.60f72286.chunk.js.map",
+    "runtime-main.js": "/Vlad-coder-678/travel-app.git/static/js/runtime-main.d601d229.js",
+    "runtime-main.js.map": "/Vlad-coder-678/travel-app.git/static/js/runtime-main.d601d229.js.map",
+    "static/css/2.07c9864b.chunk.css": "/Vlad-coder-678/travel-app.git/static/css/2.07c9864b.chunk.css",
+    "static/js/2.fbc66925.chunk.js": "/Vlad-coder-678/travel-app.git/static/js/2.fbc66925.chunk.js",
+    "static/js/2.fbc66925.chunk.js.map": "/Vlad-coder-678/travel-app.git/static/js/2.fbc66925.chunk.js.map",
+    "index.html": "/Vlad-coder-678/travel-app.git/index.html",
+    "static/css/2.07c9864b.chunk.css.map": "/Vlad-coder-678/travel-app.git/static/css/2.07c9864b.chunk.css.map",
+    "static/css/main.96799a0e.chunk.css.map": "/Vlad-coder-678/travel-app.git/static/css/main.96799a0e.chunk.css.map",
+    "static/js/2.fbc66925.chunk.js.LICENSE.txt": "/Vlad-coder-678/travel-app.git/static/js/2.fbc66925.chunk.js.LICENSE.txt",
+    "static/media/logo.a36bc88e.svg": "/Vlad-coder-678/travel-app.git/static/media/logo.a36bc88e.svg",
+    "static/media/main.874d18ca.jpg": "/Vlad-coder-678/travel-app.git/static/media/main.874d18ca.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d601d229.js",
+    "static/css/2.07c9864b.chunk.css",
+    "static/js/2.fbc66925.chunk.js",
+    "static/css/main.96799a0e.chunk.css",
+    "static/js/main.60f72286.chunk.js"
+  ]
+}
